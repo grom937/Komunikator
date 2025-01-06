@@ -1,2 +1,1 @@
 "# Komunikator" 
-"# Komunikator" 
